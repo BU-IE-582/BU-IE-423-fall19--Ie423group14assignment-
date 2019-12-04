@@ -15,6 +15,5 @@ We are group 14
 [Here](project-1.html) is our Project Part 1.
 
 
-[Here](Projectpart2-Question1-a.html) is our Project Part 2 Question 1- a.
+Our Project Part 2 is shared with googledrive
 
-[Here](part2-question2.html) is our Project Part 2 Question 2.
