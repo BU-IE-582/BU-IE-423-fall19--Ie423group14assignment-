@@ -19,6 +19,6 @@ Our Project Part 2 is shared with googledrive
 
 
 
-[Here](project-3.html) is our Project Part 3.
+[Here](project part 3.zip) is our Project Part 3.
 
 
