@@ -19,6 +19,6 @@ Our Project Part 2 is shared with googledrive
 
 
 
-[Here](Project Part 3.zip) is our Project Part 3.
+[Here](https://github.com/BU-IE-582/BU-IE-423-fall19--Ie423group14assignment-/blob/master/Project%20Part%203.zip) is our Project Part 3.
 
 [Here] Our project page https://github.com/BU-IE-582/BU-IE-423-fall19--Ie423group14assignment-
