@@ -17,3 +17,8 @@ We are group 14
 
 Our Project Part 2 is shared with googledrive
 
+
+
+[Here](project-3.html) is our Project Part 1.
+
+
